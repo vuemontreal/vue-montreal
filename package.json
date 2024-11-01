@@ -33,7 +33,7 @@
     "nuxt-i18n": "^6.28.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.6",
+    "@babel/core": "^7.26.0",
     "@babel/eslint-parser": "^7.25.1",
     "@babel/eslint-plugin": "^7.25.1",
     "@clampy-js/vue-clampy": "^1.0.6",
